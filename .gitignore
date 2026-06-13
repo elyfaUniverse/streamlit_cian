@@ -1,0 +1,24 @@
+# Виртуальное окружение
+myenv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Файлы IDE и редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Файлы проекта
+.DS_Store
+*.log
